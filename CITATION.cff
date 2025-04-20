@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Siddik"
+    given-names: "Talha"
+title: "PolluCast: Environmental Pollution Prediction"
+version: 1.0.0
+date-released: 2024-12-01
+url: "https://github.com/talhasiddik/PolluCast"
+repository-code: "https://github.com/talhasiddik/PolluCast"
+license: MIT
+type: software
