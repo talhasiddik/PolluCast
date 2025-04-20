@@ -1,0 +1,36 @@
+artifact_path: best_time_series_model
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.11.1
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.5.1+cpu
+mlflow_version: 2.19.0
+model_size_bytes: 820938
+model_uuid: 2a9d37831c0544029782c55d9cb41b57
+run_id: c9a692d2e30e4b37823465ec5708d9e4
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "co", "required": true}, {"type": "double",
+    "name": "no", "required": true}, {"type": "double", "name": "no2", "required":
+    true}, {"type": "double", "name": "o3", "required": true}, {"type": "double",
+    "name": "so2", "required": true}, {"type": "double", "name": "pm2_5", "required":
+    true}, {"type": "double", "name": "pm10", "required": true}, {"type": "double",
+    "name": "nh3", "required": true}, {"type": "double", "name": "extra_feature",
+    "required": true}]'
+  outputs: '[{"type": "float", "name": 0, "required": true}]'
+  params: null
+utc_time_created: '2024-12-14 11:58:43.169126'

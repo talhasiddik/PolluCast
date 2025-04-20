@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734202169008
+current_stage: None
+description: ''
+last_updated_timestamp: 1734202169008
+name: Air Quality Index Predictor
+run_id: 1a686a7e543c4226b499d4a5a42fd345
+run_link: ''
+source: file:///D:/FAST/7th-Semester/MLOPS/Final-Project/course-project-talhasiddik/development/mlruns/878626530893598251/1a686a7e543c4226b499d4a5a42fd345/artifacts/best_time_series_model
+status: READY
+status_message: null
+storage_location: file:///D:/FAST/7th-Semester/MLOPS/Final-Project/course-project-talhasiddik/development/mlruns/878626530893598251/1a686a7e543c4226b499d4a5a42fd345/artifacts/best_time_series_model
+user_id: null
+version: 1

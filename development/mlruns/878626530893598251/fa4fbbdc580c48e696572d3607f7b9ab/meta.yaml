@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FAST/7th-Semester/MLOPS/Final-Project/course-project-talhasiddik/development/mlruns/878626530893598251/fa4fbbdc580c48e696572d3607f7b9ab/artifacts
+end_time: 1734274590655
+entry_point_name: ''
+experiment_id: '878626530893598251'
+lifecycle_stage: active
+run_id: fa4fbbdc580c48e696572d3607f7b9ab
+run_name: beautiful-fowl-222
+run_uuid: fa4fbbdc580c48e696572d3607f7b9ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734274571782
+status: 3
+tags: []
+user_id: Dell

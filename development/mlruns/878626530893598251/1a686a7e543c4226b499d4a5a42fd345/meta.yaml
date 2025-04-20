@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FAST/7th-Semester/MLOPS/Final-Project/course-project-talhasiddik/development/mlruns/878626530893598251/1a686a7e543c4226b499d4a5a42fd345/artifacts
+end_time: 1734200717782
+entry_point_name: ''
+experiment_id: '878626530893598251'
+lifecycle_stage: active
+run_id: 1a686a7e543c4226b499d4a5a42fd345
+run_name: melodic-calf-883
+run_uuid: 1a686a7e543c4226b499d4a5a42fd345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734200698366
+status: 3
+tags: []
+user_id: Dell
