@@ -38,9 +38,9 @@ PolluCast/ ├── .dvc/, .dvcignore # DVC config and tracking ├── .env,
 
 ### 1. Clone the Repository
 
-``bash
+```bash
 git clone https://github.com/talhasiddik/PolluCast
-
+```
 ### 2.  Install Dependencies
 bash
 Copy
