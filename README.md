@@ -77,13 +77,13 @@ Run Prometheus & Grafana containers as per prometheus_grafana/ setup instruction
 
 📊 Real-time performance dashboards in Grafana.
 
-📚 Documentation
+### 📚 Documentation
  integration-documentation.docx – setup and DVC integration/full project breakdown.
 
 
-🙋‍♂️ Author
+### 🙋‍♂️ Author
 Talha Siddik
 
-⚠️ Disclaimer
+### ⚠️ Disclaimer
 This project is for educational purposes only.
 
