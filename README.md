@@ -83,10 +83,22 @@ Run Prometheus & Grafana containers as per prometheus_grafana/ setup instruction
 ### 📚 Documentation
  integration-documentation.docx – setup and DVC integration/full project breakdown.
 
-
 ### 🙋‍♂️ Author
 Talha Siddik
 
 ### ⚠️ Disclaimer
 This project is for educational purposes only.
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔒 Intellectual Property Protection
+- **Copyright**: © 2024 Talha Siddik. All rights reserved.
+- **Citation**: If you use this project in your work, please cite it as described in [CITATION.cff](CITATION.cff).
+- **Plagiarism Prevention**: This project is publicly timestamped and documented. Unauthorized reproduction is traceable.
+
+## 📚 How to Cite This Project
+```
+Siddik, T. (2024). PolluCast: Environmental Pollution Prediction. GitHub. https://github.com/talhasiddik/PolluCast
+```
 
