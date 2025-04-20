@@ -42,11 +42,9 @@ PolluCast/ ├── .dvc/, .dvcignore # DVC config and tracking ├── .env,
 git clone https://github.com/talhasiddik/PolluCast
 ```
 ### 2.  Install Dependencies
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
-
+```
 ### 3. Set Up Environment
 Create a .env file:
 
@@ -54,19 +52,21 @@ OPENWEATHER_API_KEY=your_api_key_here
 AIRVISUAL_API_KEY=your_api_key_here
 
 ### 4. Fetch & Version Data
-bash
-Copy
-Edit
+```bash
 python fetch_data.py
 dvc add data/
 dvc push
+```
 
 ### 5. Train Model (with MLflow Logging)
-mlflow run development/model.py
-
+```bash
+cd development
+mlflow run model.py
+```
 ### 6. Deploy API
+```bash
 python development/app.py
-
+```
 ### 7. Start Monitoring
 Run Prometheus & Grafana containers as per prometheus_grafana/ setup instructions.
 
